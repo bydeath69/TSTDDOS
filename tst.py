@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet Turan Cyber-Hack Team<")
+os.system("figlet Turan Cyber-Hack Team")
 print
 print
 ip = raw_input("Hedef ip : ")
